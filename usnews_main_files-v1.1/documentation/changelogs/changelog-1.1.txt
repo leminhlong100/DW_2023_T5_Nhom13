@@ -1,0 +1,23 @@
+==============================
+==
+16 September, 2017 - Version 1.1
+
+==============================
+
+
+==
+-----------------------------------------------------------------------
+
+Backup your theme/style folder and files before applying these updates.
+-----------------------------------------------------------------------
+
+
+
+
+*. Fixed Scroll Social Menu Overlapping Content On Mobile/Small Devices
+
+    
+    *. replace the follwing file:
+
+
+        	*. css/responsive-style.css
